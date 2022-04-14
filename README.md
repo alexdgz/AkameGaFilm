@@ -1,11 +1,8 @@
-# eq02_DEGOUZON-Alex_MAILLET-Lucas
+# AkameGanime website
+The AkameGanime website is a website that allows you to research anime and information about them.
+It's a 2nd year DUT project made by Lucas MAILLET and Alex DEGOUZON.
 
-Ce projet a été créé par Lucas MAILLET et Alex DEGOUZON.
-
-Pour l'utilisation du siter internet, nous vous invitons à lire lucas_maillet_alex_degouzon_rapport_web_client.pdf où il y a un exemple de recherche possible.
-
-## Api data
-L'api utilisée est l'api du site internet Anilist (https://anilist.co/home)
-Lien api : https://anilist.gitbook.io/anilist-apiv2-docs/
+# Api used 
+The main api used is the [Anilist](https://anilist.gitbook.io/anilist-apiv2-docs/) Api.
 
 
